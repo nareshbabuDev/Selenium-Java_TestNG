@@ -1,0 +1,964 @@
+{
+	"CRISP": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSIHealth",
+		"Url": "https://crisp.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"1078",
+				"1079",
+				"9327"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CrispRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://ccc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"84754",
+				"22523",
+				"89165"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CccRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"HHC": {
+		"CareTeamTest": "N",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://hhc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"86199",
+				"221447",
+				"410775"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "HHCRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCNS2AY": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://ccns2ay.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"5189",
+				"17221",
+				"24899"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCNCCOFCC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "TestGSIHealth",
+		"Url": "https://ccnccofcc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"20636",
+				"20607",
+				"20612"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CBC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://cbc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"104384",
+				"5",
+				"39771"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "GH01CbcRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"NFMMC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://nfmmc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"7157",
+				"476",
+				"3"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "GH02WnyREP01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCF": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://ccf.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"11467",
+				"12944",
+				"29"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CcfRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"UAT": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "test  gsi org",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://uat.gsihealth.net",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "karthick.ganesan@medecision.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"5207",
+				"5213",
+				"3479"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "demosql01",
+		"PopManagerIframe": "Y",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CNYHHN": {
+		"CareTeamTest": "Y",
+		"County": "Y",
+		"PatientUserName": "N",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://cnyhhn.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"32244",
+				"36120",
+				"1"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "GH01CNYREP01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"HHPWNY": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://hhpwny.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"35312",
+				"1",
+				"6829"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "GH02HhpRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCNCHENHN": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://ccnchenhn.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"5188",
+				"5186",
+				"18093"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"HVCC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://hvcc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"19558",
+				"13076",
+				"9063"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "HvccRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CAREOREGON": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://careoregon.gsihealth.org",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"110443",
+				"110461",
+				"430537"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "10.168.74.61",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCNRHNSCNY": {
+		"CareTeamTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://ccnrhnscny.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"16189",
+				"16789",
+				"17038"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"TRAINING": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi Health",
+		"Url": "https://training.gsihealth.net",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"5205",
+				"4351",
+				"197"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "demosql01",
+		"PopManagerIframe": "Y",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCN": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "N",
+		"TaskManagerConfig": "N",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://ccn.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"9531",
+				"9535",
+				"9537"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN01rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"BHNNY": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "gsihealth",
+		"Url": "https://bhnny.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"4084",
+				"4085",
+				"65248"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "Gsi02Rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"COORDINATOR": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi Health",
+		"Url": "https://gsihealthcoordinator.gsihealth.net",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"5206",
+				"4438",
+				"4441"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "demosql01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"HHCUAT": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "Y",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI",
+		"Url": "https://hhcuat.gsihealth.net",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"555",
+				"88",
+				"90"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "HHCUatRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "Y",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"PasswordReset": {
+		"sqlUser": "dinesh.netaji",
+		"envList": [
+			"CAREOREGON",
+			"CCN",
+			"BHNNY",
+			"HHCUAT",
+			"CAREOREGONTEST",
+			"QA",
+			"BETA",
+			"ESCROW"
+		],
+		"sqlPass": "Gr!nNeat6175",
+		"Password": "Medgsi123#"
+	},
+	"CAREOREGONTEST": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSIHEALTH",
+		"Url": "https://careoregontest.gsihealth.org/dashboard/",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"8",
+				"5130",
+				"5131"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CareOuatRep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"CCNHSCTC": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "N",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "TestGSIHealth",
+		"Url": "https://ccnhsctc.gsihealth.com",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTCTA",
+				"GSITESTCTB"
+			],
+			"PatientID": [
+				"20767",
+				"20605",
+				"21191"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"QA": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"County": "N",
+		"PatientUserName": "Y",
+		"IdentifiedGender": "Y",
+		"PreferredName": "Y",
+		"TestOrgTwo": "gsi",
+		"PopManagerConfig": "N",
+		"sqlIp": "GH01QARep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi Health",
+		"Url": "https://qa.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "automationtestuserthree@test.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"133230",
+				"133229",
+				"208135"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"STG": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"County": "Y",
+		"PatientUserName": "Y",
+		"IdentifiedGender": "Y",
+		"PreferredName": "Y",
+		"TestOrgTwo": "A Automation One",
+		"PopManagerConfig": "N",
+		"sqlIp": "GH01STGRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://stg.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "prabhaharan.velu@stg.com",
+		"TestUserIDThree": "automationtestuserthree@test.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"86092",
+				"78591",
+				"79649"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@stg.com"
+	},
+	"DEV": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"County": "Y",
+		"PatientUserName": "Y",
+		"IdentifiedGender": "N",
+		"PreferredName": "N",
+		"TestOrgTwo": "A dev test one",
+		"PopManagerConfig": "N",
+		"sqlIp": "GH01STGRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GSI Health",
+		"Url": "https://dev.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "automation@automation.com",
+		"TestUserIDThree": "karthick.ganesan@medecision.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"1069559",
+				"1069560",
+				"1069561"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "prabhaharan.velu@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@stg.com"
+	},
+	"QB": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"County": "Y",
+		"PatientUserName": "Y",
+		"IdentifiedGender": "N",
+		"PreferredName": "Y",
+		"TestOrgTwo": "A Automation i",
+		"PopManagerConfig": "N",
+		"sqlIp": "GH01STGRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "GsiHealthTest",
+		"Url": "https://qb.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "automationtestuserthree@test.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"835292",
+				"835293",
+				"835294"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"ESCROW": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "EscrowONE",
+		"PopManagerConfig": "N",
+		"sqlIp": "EscrowRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi HealthA",
+		"Url": "https://escrow.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "dinesh.netaji@gsihealth.com",
+		"TestUserIDThree": "karthick.ganesan@medecision.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"4521",
+				"4471",
+				"52135"
+			]
+		},
+		"Power User": "escrow@poweruser.com",
+		"TestUserIDOne": "prabhaharan.velu@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"ESCROW2": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "A escrowTwo Test ",
+		"PopManagerConfig": "N",
+		"sqlIp": "EscrowRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "AA EscrowTwo",
+		"Url": "https://escrow2.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "dinesh.netaji@gsihealth.com",
+		"TestUserIDThree": "automationuser@test.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"4064",
+				"4095",
+				"4063"
+			]
+		},
+		"Power User": "escrow@poweruser.com",
+		"TestUserIDOne": "prabhaharan.velu@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"ESCROW3": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "AAEscrowth one",
+		"PopManagerConfig": "N",
+		"sqlIp": "EscrowRep01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "TESTGSIHEALTH",
+		"Url": "https://escrow3.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "dinesh.netaji@gsihealth.com",
+		"TestUserIDThree": "dinesh.netaji@gsihealth.com",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"52428",
+				"52433",
+				"52436"
+			]
+		},
+		"Power User": "escrow@poweruser.com",
+		"TestUserIDOne": "prabhaharan.velu@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	},
+	"BETA": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "A automate one",
+		"PopManagerConfig": "N",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi Health",
+		"Url": "https://beta.gsihealth.net",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"18649",
+				"18650",
+				"18651"
+			]
+		},
+		"Power User": "automationthree@gsihealth.com",
+		"TestUserIDOne": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDTwo": "dinesh.netaji@testuser.com",
+		"sqlIp": "CCN02rep01",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "N"
+	},
+	"ITE": {
+		"CareTeamTest": "Y",
+		"ExternalIDTest": "Y",
+		"ExternalID": "74125",
+		"TestOrgTwo": "TestOrg",
+		"PopManagerConfig": "N",
+		"sqlIp": "ITEREP01",
+		"AlertAppConfig": "Y",
+		"TaskManagerConfig": "Y",
+		"TestOrgOne": "Gsi Health",
+		"Url": "https://test.gsihealth.net/dashboard/",
+		"TestUserIDTwo": "prabhaharan.velu@gsihealth.com",
+		"TestUserIDThree": "N",
+		"MultipleDatas": {
+			"ExistingCareTeam": [
+				"GSITESTA",
+				"GSITESTB"
+			],
+			"PatientID": [
+				"2871",
+				"2872",
+				"2873"
+			]
+		},
+		"Power User": "gsi.testing@gsihealth.com",
+		"TestUserIDOne": "dinesh.netaji@gsihealth.com",
+		"PopManagerIframe": "N",
+		"PopManagerSecondWindow": "N",
+		"PopManagerUser": "prabhaharan.velu@gsihealth.com"
+	}
+}

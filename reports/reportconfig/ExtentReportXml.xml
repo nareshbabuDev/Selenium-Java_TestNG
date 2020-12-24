@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <extentreports>
+<configuration>
+    <!-- report theme -->
+    <!-- standard, dark -->
+    <theme>standard</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>https</protocol>
+    <!-- title of the document -->
+    <documentTitle>Medecision Automation Reports</documentTitle>
+
+    <!-- report name - displayed at top-nav -->
+    <reportName>
+    <![CDATA[
+             <img  src='https://www.medecision.com/wp-content/uploads/2015/06/medecision.png' id="image-zoom" class="responsive" alt="Medecision Logo" />
+        ]]>              
+    </reportName>
+
+    <!-- location of charts in the test view -->
+    <!-- top, bottom -->
+    <testViewChartLocation>bottom</testViewChartLocation>
+    <dateFormat>MMM-dd-yyyy</dateFormat>
+
+    <timeFormat>HH:mm</timeFormat>
+    <!-- custom javascript -->
+    <scripts>
+        <![CDATA[
+            $(document).ready(function() {
+                    $(".logo-content").hide();$(".logo-container").html("Automation Reports");
+                });
+                $(document).ready(function() {
+                  $("#image-zoom").src("src",src);
+                  $("#image-zoom").append("src",src);
+                });
+        ]]>
+    </scripts>
+
+    <!-- custom styles -->
+    <styles>
+        <![CDATA[
+            .report-name { backface-visibility: hidden;
+    position: relative;
+    } .report-name > img { float: 
+      right;margin-left: 700px;margin-top: 150px;max-width: 400px;width: auto;height: auto; }
+        ]]>
+    </styles>
+</configuration>
+</extentreports>

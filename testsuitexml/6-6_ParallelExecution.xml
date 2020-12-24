@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="9" parallel="tests" name="Suite" >
+<listeners>  
+<listener class-name="utils.TestListener"/>  
+</listeners>
+  <test  name="Demographics" verbose="2">
+    <classes>
+       <class name="com.medecision.Demographics.DemographicsUpdate"/>
+    </classes>
+  </test> 
+  <test name="EncounterUpdate" verbose="2">
+    <classes>
+      <class name="com.medecision.EncounterUpdate.EncounterUpdate"/>
+    </classes>
+  </test>
+  <test name="CcpUpdate" verbose="2">
+    <classes>
+      <class name="com.medecision.CcpUpdate.CcpUpdate"/>
+    </classes>
+  </test>
+   <test name="Carebook" verbose="2">
+    <classes>
+      <class name="com.medecision.Carebook.CarebookNavigation"/>
+    </classes>
+  </test> 
+  <test name="Message App" verbose="2">
+    <classes>
+      <class name="com.medecision.messageapp.Messageapp"/>
+    </classes>
+  </test>
+      <test name="Patientpanel" verbose="2">
+    <classes>
+      <class name="com.medecision.addtopatientpanel.addtopatientpanel"/>
+    </classes>
+  </test>
+  
+  <test name="Alert" verbose="2">
+    <classes>
+   <class name="com.medecision.alertverification.AlertVerification"/>
+    </classes>
+  </test>
+    <test name="UserUpdate" verbose="2">
+    <classes>
+   <class name="com.medecision.userupdate.UserUpdate"/>
+    </classes>
+  </test>
+  <test name="CareteamAssignandRemove" verbose="2">
+         <classes>
+      <class name="com.medecision.careteam.Careteam"/>
+    </classes>
+  </test>
+ 
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/.idea/
+/__pycache__/
+*.pyc
+*.html
+*.log
+/bin/
+/Libs/
+/target/
+/test-output/
+/.settings/
+*.mp4
+*.png
